@@ -1,2 +1,3 @@
 # Basitlestirilmis-Python-SP
-# To be added soon
+Günlük harcama analizi programı.
+Detaylar için Powerpoint ya da Pdf dosyasını inceleyebilirsiniz
